@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eLygYRpDKpIL29xcHM7hwLbcaIz8hYy+3A9HZbLk3pIa96UADfIh232VEH+9M4VfSnrj/QaAa771IKyH2KirmQ==",
+  "success": true,
+  "projectFilePath": "C:\\MK Pers\\mk-acr-aks-web-app\\MK.Test.Web\\MK.Test.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mekha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\mekha\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
