@@ -15,3 +15,4 @@ namespace MK.Test.Web
                 .UseStartup<Startup>();
     }
 }
+
